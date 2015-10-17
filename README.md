@@ -1,0 +1,1 @@
+This Ruby program reads numbers, deposits them into an array and then calculates the arithmetic mean (average), the median, and the standard deviation.
